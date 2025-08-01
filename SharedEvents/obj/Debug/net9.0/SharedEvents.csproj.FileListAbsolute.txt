@@ -1,0 +1,33 @@
+/Users/jorgefragoso/EcommerceSaga/SharedEvents/bin/Debug/net9.0/SharedEvents.deps.json
+/Users/jorgefragoso/EcommerceSaga/SharedEvents/bin/Debug/net9.0/SharedEvents.dll
+/Users/jorgefragoso/EcommerceSaga/SharedEvents/bin/Debug/net9.0/SharedEvents.pdb
+/Users/jorgefragoso/EcommerceSaga/SharedEvents/obj/Debug/net9.0/SharedEvents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorgefragoso/EcommerceSaga/SharedEvents/obj/Debug/net9.0/SharedEvents.AssemblyInfoInputs.cache
+/Users/jorgefragoso/EcommerceSaga/SharedEvents/obj/Debug/net9.0/SharedEvents.AssemblyInfo.cs
+/Users/jorgefragoso/EcommerceSaga/SharedEvents/obj/Debug/net9.0/SharedEvents.csproj.CoreCompileInputs.cache
+/Users/jorgefragoso/EcommerceSaga/SharedEvents/obj/Debug/net9.0/SharedEvents.dll
+/Users/jorgefragoso/EcommerceSaga/SharedEvents/obj/Debug/net9.0/refint/SharedEvents.dll
+/Users/jorgefragoso/EcommerceSaga/SharedEvents/obj/Debug/net9.0/SharedEvents.pdb
+/Users/jorgefragoso/EcommerceSaga/SharedEvents/obj/Debug/net9.0/ref/SharedEvents.dll
+C:\Users\Erick Soto\Downloads\archivos\EcommerceSaga-main\EcommerceSaga-main\SharedEvents\bin\Debug\net9.0\SharedEvents.deps.json
+C:\Users\Erick Soto\Downloads\archivos\EcommerceSaga-main\EcommerceSaga-main\SharedEvents\bin\Debug\net9.0\SharedEvents.dll
+C:\Users\Erick Soto\Downloads\archivos\EcommerceSaga-main\EcommerceSaga-main\SharedEvents\bin\Debug\net9.0\SharedEvents.pdb
+C:\Users\Erick Soto\Downloads\archivos\EcommerceSaga-main\EcommerceSaga-main\SharedEvents\obj\Debug\net9.0\SharedEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick Soto\Downloads\archivos\EcommerceSaga-main\EcommerceSaga-main\SharedEvents\obj\Debug\net9.0\SharedEvents.AssemblyInfoInputs.cache
+C:\Users\Erick Soto\Downloads\archivos\EcommerceSaga-main\EcommerceSaga-main\SharedEvents\obj\Debug\net9.0\SharedEvents.AssemblyInfo.cs
+C:\Users\Erick Soto\Downloads\archivos\EcommerceSaga-main\EcommerceSaga-main\SharedEvents\obj\Debug\net9.0\SharedEvents.csproj.CoreCompileInputs.cache
+C:\Users\Erick Soto\Downloads\archivos\EcommerceSaga-main\EcommerceSaga-main\SharedEvents\obj\Debug\net9.0\SharedEvents.dll
+C:\Users\Erick Soto\Downloads\archivos\EcommerceSaga-main\EcommerceSaga-main\SharedEvents\obj\Debug\net9.0\refint\SharedEvents.dll
+C:\Users\Erick Soto\Downloads\archivos\EcommerceSaga-main\EcommerceSaga-main\SharedEvents\obj\Debug\net9.0\SharedEvents.pdb
+C:\Users\Erick Soto\Downloads\archivos\EcommerceSaga-main\EcommerceSaga-main\SharedEvents\obj\Debug\net9.0\ref\SharedEvents.dll
+C:\Users\Erick Soto\Documents\ERICK\MasterC#\ProyectoEcomerce\EcommerceSaga\SharedEvents\bin\Debug\net9.0\SharedEvents.deps.json
+C:\Users\Erick Soto\Documents\ERICK\MasterC#\ProyectoEcomerce\EcommerceSaga\SharedEvents\bin\Debug\net9.0\SharedEvents.dll
+C:\Users\Erick Soto\Documents\ERICK\MasterC#\ProyectoEcomerce\EcommerceSaga\SharedEvents\bin\Debug\net9.0\SharedEvents.pdb
+C:\Users\Erick Soto\Documents\ERICK\MasterC#\ProyectoEcomerce\EcommerceSaga\SharedEvents\obj\Debug\net9.0\SharedEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick Soto\Documents\ERICK\MasterC#\ProyectoEcomerce\EcommerceSaga\SharedEvents\obj\Debug\net9.0\SharedEvents.AssemblyInfoInputs.cache
+C:\Users\Erick Soto\Documents\ERICK\MasterC#\ProyectoEcomerce\EcommerceSaga\SharedEvents\obj\Debug\net9.0\SharedEvents.AssemblyInfo.cs
+C:\Users\Erick Soto\Documents\ERICK\MasterC#\ProyectoEcomerce\EcommerceSaga\SharedEvents\obj\Debug\net9.0\SharedEvents.csproj.CoreCompileInputs.cache
+C:\Users\Erick Soto\Documents\ERICK\MasterC#\ProyectoEcomerce\EcommerceSaga\SharedEvents\obj\Debug\net9.0\SharedEvents.dll
+C:\Users\Erick Soto\Documents\ERICK\MasterC#\ProyectoEcomerce\EcommerceSaga\SharedEvents\obj\Debug\net9.0\refint\SharedEvents.dll
+C:\Users\Erick Soto\Documents\ERICK\MasterC#\ProyectoEcomerce\EcommerceSaga\SharedEvents\obj\Debug\net9.0\SharedEvents.pdb
+C:\Users\Erick Soto\Documents\ERICK\MasterC#\ProyectoEcomerce\EcommerceSaga\SharedEvents\obj\Debug\net9.0\ref\SharedEvents.dll
